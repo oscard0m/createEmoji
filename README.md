@@ -1,2 +1,2 @@
 # createEmoji
-Script to create Slack emoji's with allowed size from big images
+Script to generate emojis with allowed size for Slack from big images
